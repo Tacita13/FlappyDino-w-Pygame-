@@ -1,7 +1,6 @@
 
 '''
 Isamar López Rodríguez
-Iván René Ruiz Torres
 14/12/15
 
 Flappy Dino game
